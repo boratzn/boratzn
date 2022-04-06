@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/furkan-bora-t%C3%BCz%C3%BCn-1a279911b/](https://www.linkedin.com/in/furkan-bora-t%C3%BCz%C3%BCn-1a279911b/)
 
-<a href="https://app.daily.dev/boratzn94"><img src="https://api.daily.dev/devcards/a3535b97e38a40e7ae2eb3480e0fb1ca.png?r=yrk" width="400" alt="Bora TÜZÜN's Dev Card"/></a>
+<a href="https://app.daily.dev/boratzn94"><img src="https://api.daily.dev/devcards/a3535b97e38a40e7ae2eb3480e0fb1ca.png?r=yrk" width="350" alt="Bora TÜZÜN's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
