@@ -6,7 +6,7 @@
 <li>🌱 I’m currently learning **.NET Core, MsSQL**</li>
 <li>💬 Ask me about **SQL, Flutter**</li>
 <li>📫 How to reach me **boratzn94@gmail.com**</li>
-<li>📄 Know about my experiences [https://www.linkedin.com/in/furkan-bora-t%C3%BCz%C3%BCn-1a279911b/](https://www.linkedin.com/in/furkan-bora-t%C3%BCz%C3%BCn-1a279911b/)</li>
+<li>📄 Know about my experiences https://www.linkedin.com/in/furkan-bora-t%C3%BCz%C3%BCn-1a279911b/](https://www.linkedin.com/in/furkan-bora-t%C3%BCz%C3%BCn-1a279911b/)</li>
 </ul>
  
 <p align="left">
