@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boratzn&label=Profile%20views&color=0e75b6&style=flat" alt="boratzn" /> </p>
 
 <ul align="left">
-<li>🌱 I’m currently learning **.NET Core, MsSQL**</li>
+<li>🌱 I’m currently learning **.NET Core**</li>
 <li>💬 Ask me about **SQL, Flutter**</li>
 <li>📫 How to reach me **boratzn94@gmail.com**</li>
 <li>📄 Know about my experiences https://www.linkedin.com/in/furkan-bora-t%C3%BCz%C3%BCn-1a279911b/](https://www.linkedin.com/in/furkan-bora-t%C3%BCz%C3%BCn-1a279911b/)</li>
