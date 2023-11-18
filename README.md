@@ -9,8 +9,8 @@
 </ul>
  
 <p align="left">
-<h3 align="center">Connect with me:</h3>      
-<div align="center"> <img src="https://github.com/boratzn/Java_Camp/blob/main/qr_code.png" width="120" height="120">  </div>
+<h3 align="center">Linkedin</h3>
+<div align="center"> <img src="https://github.com/boratzn/Java_Camp/blob/main/resume.png" width="120" height="120">  </div>
 
 
 <h3 align="left">Languages and Tools:</h3>
