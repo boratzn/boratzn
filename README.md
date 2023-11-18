@@ -6,14 +6,11 @@
 <li>🌱 I’m currently learning **.NET Core**</li>
 <li>💬 Ask me about **SQL, Flutter**</li>
 <li>📫 How to reach me **boratzn94@gmail.com**</li>
-<li>📄 Know about my experiences https://www.linkedin.com/in/furkan-bora-t%C3%BCz%C3%BCn-1a279911b/](https://www.linkedin.com/in/furkan-bora-t%C3%BCz%C3%BCn-1a279911b/)</li>
 </ul>
  
 <p align="left">
-<h3 align="left">Connect with me:</h3>      
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/furkan-bora-t%c3%bcz%c3%bcn-1a279911b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/furkan-bora-t%c3%bcz%c3%bcn-1a279911b/" height="30" width="40" /></a>
-<a href="https://instagram.com/boratzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boratzn" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/boratzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="boratzn" height="30" width="40" /></a>   
+<h3 align="center">Connect with me:</h3>      
+<div align="center"> <img src="https://github.com/boratzn/Java_Camp/blob/main/qr_code.png" width="120" height="120">  </div>
 
 
 <h3 align="left">Languages and Tools:</h3>
