@@ -9,7 +9,7 @@
 </ul>
  
 <p align="left">
-<h3 align="center">Linkedin</h3>
+<h3 align="center">Resume</h3>
 <div align="center"> <img src="https://github.com/boratzn/Java_Camp/blob/main/resume.png" width="120" height="120">  </div>
 
 
