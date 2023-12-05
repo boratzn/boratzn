@@ -22,8 +22,12 @@
 
 <p align="center"> <a href="https://app.daily.dev/boratzn94"><img src="https://api.daily.dev/devcards/a3535b97e38a40e7ae2eb3480e0fb1ca.png?r=nlx" width="300" alt="Bora TÜZÜN's Dev Card"/></a> </p>
 <p align="left">
-<p align="center">
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boratzn&show_icons=true&locale=en" alt="boratzn" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boratzn&" alt="boratzn" /></p>
-</p>
+ <div width="120">
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boratzn&show_icons=true&locale=en" alt="boratzn" /></p>
+ </div>
+  <div width="120">
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boratzn&" alt="boratzn" /></p>
+  </div>
+
 
 
