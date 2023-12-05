@@ -12,8 +12,6 @@
 <h3 align="center">Resume</h3>
 <div align="center"> <img src="https://github.com/boratzn/Java_Camp/blob/main/resume.png" width="120" height="120">  </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boratzn" alt="boratzn" /></a> </p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -22,11 +20,7 @@
 
 
 <p align="center"> <a href="https://app.daily.dev/boratzn94"><img src="https://api.daily.dev/devcards/a3535b97e38a40e7ae2eb3480e0fb1ca.png?r=nlx" width="300" alt="Bora TÜZÜN's Dev Card"/></a> </p>
-<p align="left">
- <div style="display: flex;">
-  <div style="flex: 1;"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boratzn&show_icons=true&locale=en" alt="boratzn" /> </p> </div>
-  <div style="flex: 1;"> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boratzn&" alt="boratzn" /></p> </div>
-</div>
+
  
 
 
