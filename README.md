@@ -12,6 +12,7 @@
 <h3 align="center">Resume</h3>
 <div align="center"> <img src="https://github.com/boratzn/Java_Camp/blob/main/resume.png" width="120" height="120">  </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boratzn" alt="boratzn" /></a> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -22,12 +23,11 @@
 
 <p align="center"> <a href="https://app.daily.dev/boratzn94"><img src="https://api.daily.dev/devcards/a3535b97e38a40e7ae2eb3480e0fb1ca.png?r=nlx" width="300" alt="Bora TÜZÜN's Dev Card"/></a> </p>
 <p align="left">
- <div width="120">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boratzn&show_icons=true&locale=en" alt="boratzn" /></p>
- </div>
-  <div width="120">
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boratzn&" alt="boratzn" /></p>
-  </div>
+ <div style="display: flex;">
+  <div style="flex: 1;"> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=boratzn&show_icons=true&locale=en" alt="boratzn" /> </p> </div>
+  <div style="flex: 1;"> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=boratzn&" alt="boratzn" /></p> </div>
+</div>
+ 
 
 
 
