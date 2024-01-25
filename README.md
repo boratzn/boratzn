@@ -11,7 +11,7 @@
  
 <p align="left">
 <h3 align="center">Resume</h3>
-<div align="center"> <img src="https://github.com/boratzn/Java_Camp/blob/main/resume_qr_code.pn" width="120" height="120">  </div>
+<div align="center"> <img src="https://github.com/boratzn/Java_Camp/blob/main/resume_qr.png" width="120" height="120">  </div>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
