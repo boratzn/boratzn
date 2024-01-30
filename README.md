@@ -7,7 +7,7 @@
 <li>💬 Ask me about **SQL, Flutter**</li>
 <li>📫 How to reach me **boratzn94@gmail.com**</li>
 </ul>
-
+ 
  
 <p align="left">
 <h3 align="center">Resume</h3>
