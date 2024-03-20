@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bora TÜZÜN</h1> 
+<p>I'm a dedicated Flutter developer passionate about crafting sleek and engaging mobile apps. I live in Istanbul. With a strong foundation in software development and a knack for problem-solving, I love turning ideas into reality through code.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=boratzn&label=Profile%20views&color=0e75b6&style=flat" alt="boratzn" /> </p> 
-
-<ul align="center">
-<li>🌱 I’m currently learning **.NET Core**</li>
-<li>💬 Ask me about **SQL, Flutter**</li>
-<li>📫 How to reach me **boratzn94@gmail.com**</li>
-</ul>
- 
+ <h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/boratzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boratzn" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@boratzn94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@boratzn94" height="30" width="40" /></a>
+</p>
  
 <p align="left">
 <h3 align="center">Resume</h3>
