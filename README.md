@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bora TÜZÜN</h1> 
 <p>I'm a dedicated Flutter developer passionate about crafting sleek and engaging mobile apps. I live in Istanbul. With a strong foundation in software development and a knack for problem-solving, I love turning ideas into reality through code.</p>
 
+- 🔭 I’m currently working on [Tobeto App](https://github.com/boratzn/tobeto_app)
+
  <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/boratzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/boratzn" height="30" width="40" /></a>
